@@ -6,3 +6,4 @@ feature line
 new local change
 reset test 1
 reset test 2
+master line after rebase
